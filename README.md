@@ -1,2 +1,2 @@
 # Email-Spam-Classifier
- This project predicts whether the mail is a spam or ham mail.
+When a new mail comes, it predicts whether the given mail is a spam mail or ham mail. It uses the "Multinomial Naive Bayes Algorithm" .
